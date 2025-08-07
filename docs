@@ -1,5 +1,0 @@
-mkdir images
-# Add your images to the folder
-git add images/
-git commit -m "Add images folder with images"
-git push
