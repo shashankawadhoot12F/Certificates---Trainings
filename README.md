@@ -6,7 +6,8 @@ This repository contains my professional certifications and training achievement
 
 ## 🏆 ITIL 4 Foundation Certification – Skillsoft *(May 2024)*
 
-[![ITIL 4 Foundation Certificate](certificates/itil4_foundation.png)](certificates/itil4_foundation.pdf)
+[📄 View ITIL® 4 Foundation – Introduction Certificate (PDF)](images/ITIL%C2%AE%204%20Foundation_%20Introduction.pdf)
+
 
 The ITIL® 4 Foundation certification provides an introduction to modern IT Service Management (ITSM) practices.  
 
