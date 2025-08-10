@@ -23,7 +23,7 @@ The ITIL® 4 Foundation certification provides an introduction to modern IT Serv
 
 ## 🏆 DFS – Support Administrator Beginner – GEN AI L2 – Skillsoft *(Aug 2025)*
 
-!images/DFS-Support_Administrator Beginner -GEN AI L2.pdf
+![DC Setup](images/DFS-Support_Administrator Beginner -GEN AI L2.pdf)
 
 This certification focuses on beginner-level support administration for the DFS platform, enhanced with Level 2 Generative AI knowledge.  
 
