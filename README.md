@@ -1,13 +1,12 @@
 # 📜 Certifications & Trainings
 
-This repository contains my professional certifications and training achievements, along with visual previews and downloadable copies.
+This repository contains my professional certifications and training achievements, along with downloadable copies.
 
 ---
 
-## 🏆 ITIL 4 Foundation Certification – Skillsoft *(May 2024)*
+## 🏆 ITIL® 4 Foundation Certification – Skillsoft *(May 2024)*
 
 [📄 View ITIL® 4 Foundation – Introduction Certificate (PDF)](images/ITIL%C2%AE%204%20Foundation_%20Introduction.pdf)
-
 
 The ITIL® 4 Foundation certification provides an introduction to modern IT Service Management (ITSM) practices.  
 
@@ -24,7 +23,6 @@ The ITIL® 4 Foundation certification provides an introduction to modern IT Serv
 
 ## 🏆 DFS – Support Administrator Beginner – GEN AI L2 – Skillsoft *(Aug 2025)*
 
-# My Certificate
 [📄 View DFS – Support Administrator Beginner – GEN AI L2 Certificate (PDF)](images/DFS-Support_Administrator%20Beginner%20-GEN%20AI%20L2.pdf)
 
 This certification focuses on beginner-level support administration for the DFS platform, enhanced with Level 2 Generative AI knowledge.  
