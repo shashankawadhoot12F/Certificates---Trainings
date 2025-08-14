@@ -38,7 +38,7 @@ This certification focuses on beginner-level support administration for the DFS 
 
 ---
 
-## 🏆 Google Technical Support Fundamentals – Google *(Aug 2025)*
+## 🏆 Google Technical Support Fundamentals – Coursera *(Aug 2025)*
 
 [📄 View Google Technical Support Fundamentals Certificate (PDF)](images/Technical-Support-Fundamentals_GoogleCertified.pdf)
 
