@@ -38,6 +38,23 @@ This certification focuses on beginner-level support administration for the DFS 
 
 ---
 
+## 🏆 Google Technical Support Fundamentals – Google *(Aug 2025)*
+
+[📄 View Google Technical Support Fundamentals Certificate (PDF)](images/Technical-Support-Fundamentals_GoogleCertified.pdf)
+
+This course, part of the Google IT Support Professional Certificate, introduces core concepts and skills essential for technical support roles.  
+
+**Key areas covered:**
+- Fundamentals of computer hardware, software, and networking
+- Troubleshooting methodologies and best practices
+- Customer service principles in IT support
+- Operating systems and system administration basics
+
+**Skills gained:**  
+`Technical Troubleshooting` · `Customer Support` · `IT Fundamentals` · `System Administration`
+
+---
+
 ### 📌 Notes
 - All certificates are available in **PDF format** for verification.
 - Each certification reflects my commitment to continuous learning and professional development.
